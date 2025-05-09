@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+Titanic Survival Prediction 🚢
 
 This project is part of my CodSoft Data Science Internship tasks.
 The goal is to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, and fare.
