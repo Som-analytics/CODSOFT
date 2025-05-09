@@ -36,4 +36,4 @@ The goal is to build a machine learning model that predicts whether a passenger 
 🔗 Author
 Somesh  
 CodSoft Intern (Data Science)  
-LinkedIn/GitHub: linkedin.com/in/someshgaikwad20
+LinkedIn : linkedin.com/in/someshgaikwad20
